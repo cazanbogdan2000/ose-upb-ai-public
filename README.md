@@ -44,20 +44,4 @@
     1. We have a model, how we can actually use it in production. Introducing DevOps, CI/CD and data gathering techniques for machine learning engineers. Because our work is evolving around Google Cloud Platform, in this course I will show off the main parts of Google Cloud Platform and how we can put a model in production for a simple use case. 
         1. Intro to GCP
         2. We will use a model from previous weeks and we will make it into production 
-8. Internal project presentation - invited speaker
-    1. TBD
-    
-
-## Assignment
-
-The course will have a 4 week assignment which will consist of 
-
-1. Finishing the coding part from the course / testing it / improving the performance of the models and finally upload it to a GitHub project 
-    1. K-Means 
-    2. Linear Regression
-    3. Difficulty: 5/10
-2. Detect simple anomalies using self organizing maps (SOM) on Orange services data 
-    1. Possibly a Kaggle competition ( I am not sure in this moment )
-    2. The homework will include a skeleton
-    3. It will test how they can adapt the knowledge from the course to a real word scenario
-    4. Difficulty: 8/10
+ 
